@@ -1,4 +1,6 @@
 # iHW for the TI-84 Plus CE
+
+[![Join the chat at https://gitter.im/jononon/iHW-TI-84-CE](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jononon/iHW-TI-84-CE?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![iHW for the TI-84 Plus CE](http://jonathandamico.me/ti.png)
 
 ##How to get this program
