@@ -6,7 +6,7 @@ Discuss issues and ask questions here:
 [![Version Number](https://img.shields.io/github/release/jononon/iHW-TI-84-CE.svg)](https://github.com/jononon/iHW-TI-84-CE) [![Tag](https://img.shields.io/github/tag/jononon/iHW-TI-84-CE.svg)](https://github.com/jononon/iHW-TI-84-CE)
 [![Issues](https://img.shields.io/github/issues/jononon/iHW-TI-84-CE.svg)](https://github.com/jononon/iHW-TI-84-CE)
 
-![iHW for the TI-84 Plus CE](http://jonathandamico.me/ti.png)
+![iHW for the TI-84 Plus CE](http://puu.sh/jX3KR/3c777d8388.png)
 
 ##How to get this program
 ###Transfer
