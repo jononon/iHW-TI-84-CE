@@ -9,7 +9,7 @@
 To download the program directly to your calculator, follow the following steps.
 
 * Download and Install the [TI Connect™ CE Software](https://education.ti.com/en/us/products/computer_software/connectivity-software/ti-connect-ce-software/tabs/overview)
-* Download this program by clicking "Download ZIP" to the right.
+* Download this program by clicking "Download ZIP" on the right.
 
 !["Download ZIP" button](http://puu.sh/jWRgp/4a6940d1d3.png)
 * Unzip the download
