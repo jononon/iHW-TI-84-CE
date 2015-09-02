@@ -1,4 +1,10 @@
-# iHW for the TI-84 Plus CE
+# Installation: iHW for the TI-84 Plus CE
+
+Discuss issues and ask questions here:
+[![Join the chat at https://gitter.im/jononon/iHW-TI-84-CE](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jononon/iHW-TI-84-CE?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+[![Version Number](https://img.shields.io/github/release/jononon/iHW-TI-84-CE.svg)](https://github.com/jononon/iHW-TI-84-CE) [![Tag](https://img.shields.io/github/tag/jononon/iHW-TI-84-CE.svg)](https://github.com/jononon/iHW-TI-84-CE)
+[![Issues](https://img.shields.io/github/issues/jononon/iHW-TI-84-CE.svg)](https://github.com/jononon/iHW-TI-84-CE)
 
 ![iHW for the TI-84 Plus CE](http://jonathandamico.me/ti.png)
 
@@ -37,7 +43,3 @@ Press `prgm`, and select iHW.
 ![Launch](http://puu.sh/jWRrU/4f85d304a7.png)
 
 To clear the screen, press `2nd`>`prgm`>`enter`
-
-##Chat Room
-Discuss issues and ask questions here:
-[![Join the chat at https://gitter.im/jononon/iHW-TI-84-CE](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jononon/iHW-TI-84-CE?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
