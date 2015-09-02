@@ -2,6 +2,7 @@ PROGRAM:IHW-TI
 :BackgroundOff
 :ClrHome
 :ClrDraw
+:AxesOff
 :BackgroundOn WHITE
 :TextColor(RED)
 :Text(0,0,"Period")
@@ -36,4 +37,4 @@ PROGRAM:IHW-TI
 :Text(135,0,"To Clear, press 2nd > prgm > enter")
 :TextColor(MEDGRAY)
 :Text(150,0,"ihwapp.com")
-:Text(150,160,"v1.0")
+:Text(150,160,"v1.1")
