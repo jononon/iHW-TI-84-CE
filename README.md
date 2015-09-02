@@ -2,10 +2,6 @@
 
 ![iHW for the TI-84 Plus CE](http://jonathandamico.me/ti.png)
 
-##Chat Room
-Discuss issues and ask questions here:
-[![Join the chat at https://gitter.im/jononon/iHW-TI-84-CE](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jononon/iHW-TI-84-CE?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 ##How to get this program
 ###Transfer
 [Contact me](http://jonathandamico.me/contact) and I will transfer this program to your calculator with a link cable.
@@ -41,3 +37,7 @@ Press `prgm`, and select iHW.
 ![Launch](http://puu.sh/jWRrU/4f85d304a7.png)
 
 To clear the screen, press `2nd`>`prgm`>`enter`
+
+###Chat Room
+Discuss issues and ask questions here:
+[![Join the chat at https://gitter.im/jononon/iHW-TI-84-CE](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jononon/iHW-TI-84-CE?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
